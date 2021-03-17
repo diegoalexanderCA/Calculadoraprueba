@@ -23,6 +23,7 @@ public class ProyectoConGithub {
         
         System.out.println("Este mensaje se ha creado desde GitHub");
         System.out.println("GRACIAS PROFESORA, POR DARNOS UN TUTORIAL A MEDIAS SIN EXPLICAR EL CHECKOUT BIEN!!!");
+        System.out.println("Hola, primero se hace fetch y luego checkout siempre?");
         
                 
     }
