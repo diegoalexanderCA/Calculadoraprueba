@@ -1,2 +1,3 @@
 # Fichero primer elemento del reposiorio.
-A partir de aquÃ­ empieza los desenlaces del proyecto.
+A partir de aquí empieza los desenlaces del proyecto.
+Readme editado desde copia local netbeans.
