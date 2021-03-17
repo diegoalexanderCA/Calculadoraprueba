@@ -17,7 +17,10 @@ public class ProyectoConGithub {
     public static void main(String[] args) {
         System.out.println("Primer mensaje del proyecto");
         System.out.println("He borrado un paquete, una clase y añado este mensaje, veamos con git los captura");
-                
+        
+        
+        System.out.println("Hola, pa otro commit");
+        
                 
     }
     
