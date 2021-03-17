@@ -25,6 +25,7 @@ public class ProyectoConGithub {
         System.out.println("GRACIAS PROFESORA, POR DARNOS UN TUTORIAL A MEDIAS SIN EXPLICAR EL CHECKOUT BIEN!!!");
         System.out.println("Hola, primero se hace fetch y luego checkout siempre?");
         System.out.println("Otro mensaje desde netbeans sea e1");
+        System.out.println("Otro mensaje desde github sea d1");
         
                 
     }
